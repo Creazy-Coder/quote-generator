@@ -3,7 +3,6 @@ const quotes = [
   "In three words I can sum up everything I've learned about life: it GOSE on.",
   'The only way to do great work is to love what you do.',
   'Success is not final, failure is not fatal: It is the courage to continue that counts.',
-  'Success is not final, failure is not fatal: It is the courage to continue that counts.',
   "Believe you can and you're halfway there.",
 ];
 
